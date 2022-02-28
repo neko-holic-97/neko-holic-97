@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neko-holic-97
+- 👋 Hi, I’m neko
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Next JS and Web3
 

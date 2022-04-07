@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Linh
 - 👀 I’m interested in React
-- 🌱 I’m currently learning Next JS and Web3
-
-<!---
-neko-holic-97/neko-holic-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I am planning to learn Next JS, Python, Flutter and Web3.
+- More You Know, More You Grow -

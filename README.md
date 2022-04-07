@@ -1,4 +1,4 @@
-- 👋 Hi, I’m neko
+- 👋 Hi, I’m Linh
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Next JS and Web3
 

@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Linh
 - 👀 I’m interested in Javascript
-- 🌱 I am planning to learn Next JS, Python, Flutter and Web3.
+- 🌱 I am planning to learn Next JS, Python, React Native and Web3.
 - More You Know, More You Grow -

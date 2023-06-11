@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Linh
-- 👀 I’m interested in Javascript
-- 🌱 I am planning to learn Next JS, Python, React Native and Web3.
+- 👀 I’m front end developer
 - More You Know, More You Grow -
